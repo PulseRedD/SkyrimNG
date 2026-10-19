@@ -13,3 +13,7 @@ Foundation planning. No MO2 installation has been scanned or validated.
 - [Architecture](architecture/README.md)
 
 The SkyrimNG repository owns modlist decisions, compatibility knowledge, separator taxonomy, and release readiness. Companion software lives in [SkyrimNG-Companion](https://github.com/PulseRedD/SkyrimNG-Companion).
+
+
+## Repository governance
+**All changes require a feature branch and a pull request. No direct writes to `main`, ever.** See [contribution policy](CONTRIBUTING.md) and [directory guide](docs/DIRECTORY_GUIDE.md). The owner reviews PRs before merging.
